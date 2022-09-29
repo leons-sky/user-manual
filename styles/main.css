@@ -35,7 +35,6 @@ li {
 
 .row-child {
     padding-top: 0;
-    position: relative;
     float: left;
     width: calc(50% - 4rem);
     margin-right: 2rem;
